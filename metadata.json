@@ -1,0 +1,6 @@
+{
+  "name": "Student Management System",
+  "description": "Full-stack CRUD student management system with React frontend, REST API backend, SQLite persistence, robust validation, search, and Postman API test suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
